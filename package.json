@@ -7,8 +7,12 @@
     "build": "node app.js"
   },
   "keywords": [
-    "ssr", "subscrible link"
+    "ssr",
+    "subscrible link"
   ],
   "author": "Andy Chung",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
